@@ -11,6 +11,18 @@ En la librería encontrará Experimentos Probabilísticos tales como los descrit
 
 # Prerequisitos
 El primer prerrequisito para correr esta libreria es disponer de un IDE
+
 Es necesario descargar el archivo "librería", prueba.txt y el main para correrlo
+
+# Instalación
+Obtener una copia del Proyecto.
+
+1. Dijirase al link del repositorio
+
+2. Pulse el botón “Code” de color verde.
+
+3. Seleccione la opción “Download ZIP”
+
+4. Descomprima el .ZIP y ejecute el archivo .py
 
 
