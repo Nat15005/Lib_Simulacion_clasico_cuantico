@@ -26,4 +26,6 @@ Obtener una copia del Proyecto.
 4. Descomprima el .ZIP y ejecute el archivo .py
 
 # Pruebas
-Para correr el programa es necesario usar el archivo de pruebas. Se abre la terminal y se escribe el comando: python main.py < prueba.txt
+Para correr el programa es necesario usar el archivo de pruebas. Se abre la terminal y se escribe el comando: python main.py < prueba.txt, de esta manera se ejecutara el programa con las pruebas en el archivo mencionado.
+Asimismo, si no desea usar la terminal, puede abrir el archivo de prueba y copiar los datos de prueba en este, seguido de correr el programa desde main y pegar las pruebas.
+
