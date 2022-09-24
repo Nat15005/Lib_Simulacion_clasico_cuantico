@@ -30,12 +30,15 @@ Para correr el programa es necesario usar el archivo de pruebas. Se abre la term
 Asimismo, si no desea usar la terminal, puede abrir el archivo de prueba y copiar los datos de prueba en este, seguido de correr el programa desde main y pegar las pruebas.
 
 archivo de prueba
+
 ![image](https://user-images.githubusercontent.com/111907712/192081652-e7ca58cd-f736-44b4-9732-14d32aa57320.png)
 
 La salida se da de forma:
+
 ![image](https://user-images.githubusercontent.com/111907712/192081718-dbed7709-65f0-449d-b533-8c853cee2132.png)
 
 Las pruebas salen de la forma:
+
 ![image](https://user-images.githubusercontent.com/111907712/192081749-336ee4d3-4ff9-42b8-ab1d-dce9ef788e53.png)
 
 # Autor
