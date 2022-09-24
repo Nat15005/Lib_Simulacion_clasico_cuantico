@@ -22,7 +22,7 @@ def canicas(matriz,v_inicial):
     X = [x[:] for x in matriz]
 
     for i in range(2, tics + 1):
-        X = lc.multmatrices(X, matriz)
+        X = lc.multmatrices(X, matriz)  #Se usa la multiplicación de matrices
 
     print("Estado inicial:")
     v_inicial = [[3], [2], [5], [9], [0], [7]]
@@ -32,11 +32,12 @@ def canicas(matriz,v_inicial):
     for i in v_inicial:
         print(v_inicial)
 
-    posicion = lc.accionmatrizvector(X, v_inicial)
+    posicion = lc.accionmatrizvector(X, v_inicial)  #Accion de matriz sobre vector
 
     print("Vector Final:")
     print(posicion)
 
+#SEGUNDO EXPERIMENTO
 def exp_2(matriz,v_inicial):
     print("Experimento Probabilistico con multiples rendijas")
     print("Matriz asociada:")
@@ -71,7 +72,7 @@ def exp_2(matriz,v_inicial):
     print(posicion)
     lc.graficas(lc.n_tics(matriz), posicion)
 
-
+#TERCER EXPERIMENTO
 def exp_3(matriz,v_inicial):
     print("Experimento Cuantico con 2 rendijas")
     matriz = [[(0, 0), (0, 0), (0, 0), (0, 0), (0, 0), (0, 0), (0, 0), (0, 0)],
