@@ -37,7 +37,6 @@ La salida se da de forma:
 
 ![image](https://user-images.githubusercontent.com/111907712/192081718-dbed7709-65f0-449d-b533-8c853cee2132.png)
 
-Las pruebas salen de la forma:
 
 ![image](https://user-images.githubusercontent.com/111907712/192081749-336ee4d3-4ff9-42b8-ab1d-dce9ef788e53.png)
 
